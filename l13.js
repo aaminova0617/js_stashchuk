@@ -25,6 +25,6 @@ myCity['popular'] = true
 console.log(myCity)
 
 const countryPropertyName = 'country'
-myCity [countryPropertyName] = 'USA'
+myCity ['countryPropertyName'] = 'USA'
 
 console.log(myCity)
