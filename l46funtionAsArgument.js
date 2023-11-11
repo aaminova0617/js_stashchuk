@@ -20,5 +20,9 @@
      console.log('run anonum function ! \n')
  })
 
+ main( () => {
+     console.log('run anonum function ! \n')
+ })
+
 
 
