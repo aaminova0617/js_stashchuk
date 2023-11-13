@@ -4,6 +4,9 @@ const userProfile = {
     hasSignedAgreement: false,
 }
 
+nm = userProfile.name
+cm = userProfile.commentsQty
+
 // const {name, commentsQty} = userProfile
 // const {hasSignedAgreement} = userProfile
 const {name, commentsQty, hasSignedAgreement} = userProfile
